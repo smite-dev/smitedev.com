@@ -1,0 +1,2 @@
+# smitedev.com
+personal website
