@@ -1,2 +1,2 @@
 # smitedev.com
-personal website
+smitedev.com repo
