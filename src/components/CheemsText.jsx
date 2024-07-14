@@ -7,7 +7,7 @@ function CheemsText() {
       <div className="App-header">
         <img src={cheems} className="cheems-logo" alt="CHEEMS" />
         <div className="pesto">
-            PESTO    
+            SMITE    
         </div>
       </div>
     </div>
